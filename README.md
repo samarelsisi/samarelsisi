@@ -104,7 +104,7 @@ class SamarElsisi extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=12&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMAR ELSISI&theme=tokyonight&border_radius=12&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 
 </div>
 
