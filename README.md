@@ -95,15 +95,6 @@ class SamarElsisi extends FlutterDeveloper {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarelsisi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarelsisi&theme=tokyonight" />
-</p>
-
-
-</div>
 
 <div align="center">
 
