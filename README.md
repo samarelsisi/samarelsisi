@@ -114,7 +114,7 @@ class SamarElsisi extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=false&no-bg=false&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Samar Elsisi&theme=discord&no-frame=false&no-bg=false&margin-w=6&row=1" />
 
 </div>
 
@@ -134,9 +134,9 @@ class SamarElsisi extends FlutterDeveloper {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samar-elsisi-7b85541aa/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samarelsisi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarelsisis714@gmail.com)
 
 </div>
 
