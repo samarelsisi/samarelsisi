@@ -114,7 +114,7 @@ class SamarElsisi extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Samar Elsisi&theme=discord&no-frame=false&no-bg=false&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=SAMARELSISI&theme=discord&no-frame=false&no-bg=false&margin-w=6&row=1" />
 
 </div>
 
